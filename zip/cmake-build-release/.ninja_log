@@ -1,0 +1,15 @@
+# ninja log v5
+6	454	7366511081219229	test/CMakeFiles/test_write.out.dir/test_write.c.obj	90d19f17e7efd5cc
+24	457	7366511081229213	test/CMakeFiles/test_permissions.out.dir/test_permissions.c.obj	a8f9e4a18fb1fdde
+16	459	7366511081229213	test/CMakeFiles/test_extract.out.dir/test_extract.c.obj	3d302fcc0a89e135
+12	459	7366511081274380	test/CMakeFiles/test_read.out.dir/test_read.c.obj	6e28bd69f4cef67
+9	460	7366511081284388	test/CMakeFiles/test_append.out.dir/test_append.c.obj	d45e6b846271d87d
+20	473	7366511081404778	test/CMakeFiles/test_entry.out.dir/test_entry.c.obj	e46a28c839b215c5
+1	841	7366511085066008	CMakeFiles/zip.dir/src/zip.c.obj	f9b9cab3dc55031c
+842	885	7366511085522259	zip.lib	1b1d3276282561c0
+893	1019	7366511086855821	test/test_read.out.exe	71bf952a6ab6638
+897	1020	7366511086865834	test/test_extract.out.exe	b447cd92c2909aad
+889	1021	7366511086870949	test/test_append.out.exe	1b9efa5341bebbe3
+905	1023	7366511086901012	test/test_permissions.out.exe	297b451f94c381b7
+885	1024	7366511086891024	test/test_write.out.exe	336b81d159077ec7
+901	1024	7366511086891024	test/test_entry.out.exe	38277882c7fdb4c0
